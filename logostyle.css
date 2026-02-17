@@ -1,0 +1,5 @@
+#site-logo {
+  width: 150px;  /* adjust to fit your header */
+  height: auto;  /* maintain aspect ratio */
+  vertical-align: middle;
+}
